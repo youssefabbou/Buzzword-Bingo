@@ -1,4 +1,4 @@
-# README für Buzzword-Bingo-Spiel
+Buzzword-Bingo-Spiel
 
 ## Übersicht
 
